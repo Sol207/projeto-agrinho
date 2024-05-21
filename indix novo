@@ -19,39 +19,20 @@
 
     <!--section header  -->
     <header>
-      <!--começo cabeçalho visual do site-->
-      <div class="cabecalho img">
-        <img class="logo__principal" src="img/logo.png" alt="Logo" />
-        <h1 class="texto__cabecalho">
-          Fruticultura do Maracuja.
-        </h1>
-        <a class="cabecalho__botao" href="https://www.nre.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=53" 
-        target="_blank" >NRE IVAIPORÃ</a>
-        <br />
-      </div>
-    </header>
-    <!-- fim cabeçalho visual do site-->
-
-    <!-- primeira seção  -->
-    <section class="container">
       <div class="secao1__descricao">
-        <p class="secao1__titulo">O que é a fruta do maracuja?</p>
+        <p class="secao1__titulo">O que e o Morango ? Qual seu cultivo ?</p>
         <p class="secao1__texto">
-         
-            Maracujá é uma denominação geral dada ao fruto e à planta de várias espécies do gênero Passiflora. O nome maracujá é de origem tupi-guarani e significa “alimento que se toma de sorvo” ou “alimento em forma de cuia”.
+ 
+          Cultivo do morango
+O morango é uma espécie originária da Europa, resultado da hibridização de duas plantas: F. chiloensis e F. virginiana. É uma planta rasteira, que conforme cresce, cria novas folhas e raízes, expandindo-se continuamente.
 
-            As primeiras referências ao gênero Passiflora foram feitas no século 16, como sua citação na obra Tratado descritivo do Brasil,de 1587, na qual o português Gabriel Soares de Sousa fez referência ao maracujá como uma planta com múltiplas potencialidades alimentares, ornamentais e medicinais. O maracujá também é conhecido como fruto da paixão ou flor da paixão. O termo paixão vem da associação das estruturas das flores e da planta do maracujá à Paixão de Cristo.
-            
-            Existem mais de 500 espécies de maracujás que têm origem na América Tropical, como Brasil, Colômbia, Peru, Equador, Bolívia e Paraguai, embora existam espécies nativas nas Américas do Norte e Central, Ásia e Oceania. Estima-se que mais de 150 espécies de maracujás são nativas do Brasil, considerado um dos maiores centros de diversidade. Cada ano, novas espécies têm sido identificadas e descritas no País. Pode-se dizer que os maracujás pertencem a uma biodiversidade essencialmente brasileira.
-            
-            Diferentes partes das plantas têm uso comercial, como os frutos para consumo in natura (maracujás-doces), a polpa para fabricação de sucos e néctares (maracujás-ácidos), as flores para ornamentação (maracujás-ornamentais) e as sementes, folhas e hastes para produção de matéria-prima para indústrias de condimentos, cosméticos e farmacêutica (maracujás funcionais-medicinais).
-            
-            A polpa também pode ser utilizada na formulação mista com outras polpas de frutas, extrato de soja, na formulação de produtos lácteos como iogurtes, na fabricação de bombons, bolos, sorvetes, mousses, geleias e doces. Em escala artesanal, polpa e sementes são usadas na elaboração de pratos doces e salgados, muito apreciados na culinária gourmet.
-        </p>
+No Brasil, estima-se que seu cultivo tenha se iniciado na década de 50, no sul do estado de Minas Gerais (município de Estiva), porém, sua expansão como cultura se iniciou a partir dos anos 80, por meio de novas tecnologias e investimentos de diversos agentes. Hoje, o país é um dos que mais investem áreas para o cultivo do morango: são cerca de 3500 hectares destinados ao cultivo do morangueiro, correspondendo a 40% da área na América do Sul. Os estados que se destacam na produção são: Minas Gerais, Paraná e Rio Grande do Sul. Por outro lado, dentro do panorama mundial de produtividade, o Brasil possui uma produção menor em comparação a outros países
+
+Uma das características do cultivo do morango é o fato dele ser feito principalmente em pequenas propriedades rurais, além de necessitar de grande quantidade de mão de obra ao longo de toda sua cadeia. Ou seja, é uma cultura que ajuda a gerar empregos e renda para diversos atores envolvidos.
       </div>
       <img
-        src="images.jpeg"
-        alt="Saiba-como-plantar-maracuja.jpg"
+        src=""
+        alt=""
         class="secao1__imagem"
       />
     </section>
@@ -60,147 +41,22 @@
     <!-- segunda seção lista  -->
     <section>
       <div class="secao2__titulo">
-        <p class="secao2__img__titulo"></p>
+        <p class="secao2_img_titulo"></p>
       </div>
 
       <div class="secao2__imagens">
         <div>
-        <img src="picole-gefrutti-maracuja.png" alt= />
+        <img src="images.jpeg" alt="Seus frutos:" />
       </div>
       <div>
-        <img src="download (28).jpg" alt="" />
+        <img src="image.png" alt="Pé com suas frutas" />
       </div>
       <div>
-        <img src="img/3.png" alt="" />
+        <img src="images (1).jpeg" alt="Suas flores antes de formar o fruto" />
       </div>
       </div>
       </div>
 
       <div class="secao2__subtitulo">
-        <h2 class="secao2__img__subtitulo">
-            O maracujá é uma excelente fonte de vitamina C, um poderoso antioxidante que fortalece o sistema imunológico, auxiliando na prevenção de gripes e resfriados. A presença de alcaloides no maracujá confere-lhe propriedades relaxantes e calmantes, sendo um aliado natural contra o estresse e a ansiedade
-        </h2>
-      </div>
-    </section>
-    <!-- fim da segunda seção lista -->
-
-    <!--terceira seção informações  -->
-    <section class="container">
-      <div class="secao3__imagem img">
-        <div class="secao3__texto">
-          <h1 class="secao3__info">
-            Maracujá é bom para quê?
-
-Rico em antioxidantes. ...
-Ajuda a preservar a saúde dos olhos por ser fonte de vitamina A. ...
-Melhora a digestão por ser rico em fibras. ...
-Excelente fonte de minerais bons para os ossos e saúde do coração. ...
-Fonte de nutrientes importantes para a imunidade. ...
-Estimula o emagrecimento. ...
-Age como calmante natural.
-          </h1>
-          <p class="secao3__info"></p>
-        </div>
-      </div>
-    </section>
-    <!-- fim da terceira seção informações -->
-
-    <!-- quarta seção contato   -->
-    <section class="container secao4">
-      <div class="secao4__imagem">
-      <img
-        src="img/pote-mel.png"
-        alt=""
-      />
-    </div>
-      <div class="secao4__container">
-        <p class="secao4__titulo"></p>
-        <p class="secao4__texto"></p>
-        <br />
-        <br />
-        <p class="secao4__email">
-          
-          <span> </span><a href="mailto:luzia.siscati@escola.pr.gov.br"> </a>
-          
-        </p>
-        <br />
-        <p class="secao4__fone"><span> </span><a href="tel:+554334725739"></a></p>
-        <br />
-        <p class="secao4__endereco">
-          <span> </span>
-        </p>
-      </div>
-    </section>
-    <!-- fim quarta seção contato -->
-
-     <!--quinta  seção Relogio clima  -->
-     <section class="container relogio">
-      <div class="aba-conteudo ativo">
-        <h3 class="aba-conteudo-titulo-principal"></h3>
-        <h4 class="aba-conteudo-titulo-secundario"></h4>
-        <div class="contador">
-            <div class="contador-digito">
-                <p class="contador-digito-numero" id="dias0"></p>
-                <p class="contador-digito-texto"></p>
-            </div>
-            <div class="contador-digito">
-                <p class="contador-digito-numero" id="horas0"></p>
-                <p class="contador-digito-texto"></p>
-            </div>
-            <div class="contador-digito">
-                <p class="contador-digito-numero" id="min0"></p>
-                <p class="contador-digito-texto"></p>
-            </div>
-            <div class="contador-digito">
-                <p class="contador-digito-numero" id="seg0"></p>
-                <p class="contador-digito-texto"></p>
-            </div>
-        </div>
-    </div>
-    </section>
-    <!-- fim da quinta seção relogio do clima -->
-
-    <!--rodapé  -->  
-    <footer class="rodape">
-      <img src="img/logo.png" alt="ceaa" class="rodape__logo" />
-      <ul class="rodape__lista">
-        <li class="lista__link">
-          <a href="https://www.sistemafaep.org.br/agrinho/">AGRINHO 2024</a>
-        </li>
-        <li class="lista__link">
-          <a href="https://www.instagram.com/sistema.faep/">FAEP</a>
-        </li>
-        <li class="lista__link">
-          <a href="https://www.instagram.com/sistema.faep/">SENAR</a>
-        </li>
-        <li class="lista__link">
-          <a
-            href="https://www.nre.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=53"
-            >NRE IVAIPORÃ</a
-          >
-        </li>
-        <li  class="lista__link">
-          <a  
-            href="https://www.nre.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=50"
-            >NRE GUARAPUAVA
-          </a>
-        </li>
-        <li  class="lista__link">
-          <a  
-            href="https://www.nre.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=61"
-            >NRE PATO BRANCO
-          </a>
-        </li>
-      </ul>
-      <p class="rodape__texto">Site modelo Agrinho 2024</p>
-      <p class="rodape__texto">® 2024 -NRE IVAIPORÃ</p>
-    </footer>
-    <!-- fim rodapé-->
-
-    <!--Javascript-->
-    <script src="main.js"></script>
-    <!--fim Javascript-->
-  </body>
-  <!--fim corpo site BODY-->
-</html>
-<!--fim HTML-->
+        <h2 class="secao2_img_subtitulo">
+          O morango é uma fruta vermelha, cuja origem é a Europa. Produzida pelo morangueiro, é um fruto rasteiro. Existem várias espécies de morango, sendo a fragaria a mais comum e cultivada em várias partes do mundo. É uma fruta pouco calórica, apresentando cerca de 32 kcal por 100 gramas de morango.
